@@ -20,6 +20,7 @@
 			<Item Name="ChartView.lvclass" Type="LVClass" URL="../Workers/ChartView/ChartView.lvclass"/>
 			<Item Name="ConfigView.lvclass" Type="LVClass" URL="../Workers/ConfigView/ConfigView.lvclass"/>
 			<Item Name="LoginView.lvclass" Type="LVClass" URL="../Workers/LoginView/LoginView.lvclass"/>
+			<Item Name="Alarm Worker.lvclass" Type="LVClass" URL="../Workers/Alarm Worker/Alarm Worker.lvclass"/>
 		</Item>
 		<Item Name="Manager Panel.lvclass" Type="LVClass" URL="../Workers/Manager Panel/Manager Panel.lvclass"/>
 		<Item Name="Launcher - Manager Panel.vi" Type="VI" URL="../Launchers/Launcher - Manager Panel.vi"/>
